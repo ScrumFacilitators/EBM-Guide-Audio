@@ -1,7 +1,14 @@
 <?xml version="1.0" standalone="no" ?>
 <!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
-<project xmlns="http://audacity.sourceforge.net/xml/" projname="EBM-Guide-Audio_data" version="1.3.0" audacityversion="2.4.2" sel0="512.9146234413" sel1="512.9146234413" vpos="0" h="468.6480705739" zoom="12.4699115753" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
-	<tags/>
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="EBM-Guide-Audio_data" version="1.3.0" audacityversion="2.4.2" sel0="0.0000000000" sel1="1108.5608616780" vpos="0" h="468.6480705739" zoom="12.4699115753" rate="44100.0" snapto="off" selectionformat="hh:mm:ss + milliseconds" frequencyformat="Hz" bandwidthformat="octaves">
+	<tags>
+		<tag name="ARTIST" value="Sjoerd Kranendonk"/>
+		<tag name="ALBUM" value="Scrum.org Evidence Based Managment Guide"/>
+		<tag name="COMMENTS" value="DEV -  This publication is offered for license under the Attribution Share-Alike license of Creative Commons, accessible at http://creativecommons.org/licenses/by-sa/4.0/legalcode and also described in summary form at http://creativecommons.org/licenses/by-sa/4.0/. By utilizing this EBM Guide, you acknowledge and agree that you have read and agree to be bound by the terms of the Attribution Share-Alike license of Creative Commons."/>
+		<tag name="YEAR" value="2020"/>
+		<tag name="TITLE" value="EBM Audio Guide (in progress)"/>
+		<tag name="GENRE" value="Audio Book"/>
+	</tags>
 	<wavetrack name="Audio Track" isSelected="1" height="150" minimized="0" channel="2" linked="0" mute="0" solo="0" rate="44100" gain="1.0" pan="0.0" colorindex="0">
 		<waveclip offset="0.00000000" colorindex="0">
 			<sequence maxsamples="262144" sampleformat="262159" numsamples="4321280">
